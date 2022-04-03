@@ -1,0 +1,25 @@
+{% extends 'base/base.html' %}
+{% load static %}
+
+{% block content %}
+<link rel="stylesheet" href="{% static '/styles/task_confirm_delete.css'%}">
+<div class="content">
+<br>
+<form method="POST">
+    {% csrf_token %}
+    <p>Are you sure you would like to delete this task?</p>
+    <p>"{{task}}"</p>
+    <input class="button" type="submit" value="Delete"/>
+    <a class="button" id="cancelButton" href="{% url 'tasks' %}">Cancel</a>
+</form>
+<br>
+<hr>
+<p class="footnote">
+    This program has been created using Python 3.10 and Django 4.0.3. This program has been created by Bearded-Viking for educational purposes only. Any similarity to other websites or programs is purely coincidental and non-intentional.
+</p>
+<p class="footnote">
+    Find out more: by viewing the repository <a href="https://github.com/Bearded-Viking/TaskFlow/">"https://github.com/Bearded-Viking/TaskFlow/</a>
+</p>
+<br>
+</div>
+{% endblock content %}

@@ -1,0 +1,53 @@
+{% extends 'base/base.html' %}
+{% load static %}
+
+{% block content %}
+<link rel="stylesheet" href="{% static '/styles/task_list.css'%}">
+    <div class="content">
+        <br>
+        {% if request.user.is_authenticated %}
+            <a class="button" id="logOut" href="{% url 'logout' %}">Logout</a>
+        {% else %}
+            <a href="{% url 'login' %}">Login</a> {% endif %}
+        <br>
+    <br>
+<hr id="line">
+<h1>My Task Flow List</h1>
+<br>
+<form method="GET">
+    <p id="filterArea">Filter Items:
+        <input class="wideInput" type="text" name="search-area" value="{{search_input}}">
+        <input class="button" type="submit" value="Refine List">
+    </p>
+</form>
+<br>
+<table>
+    {% if task in tasks is not empty %}
+    <tr class="tablerow">
+        <th><h3>Incomplete Tasks</h3></th>
+    </tr>
+    {% endif %}
+    {% for task in tasks %}
+    <tr class="tablerow">
+        <td>{{task.title}}</td>
+        <td><a href="{% url 'task' task.id %}">View Details</a></td>
+        <td><a href="{% url 'task-update' task.id %}">Edit</a></td>
+        <td><a href="{% url 'task-delete' task.id %}">Delete</a></td>
+    </tr>
+    {% empty %}
+        <h3>No items in list.</h3>
+    {% endfor %}
+</table>
+<br>
+<a class="button" id="addTask" href="{% url 'task-create' %}">Add Task</a>
+</div>
+<br>
+<hr>
+<p class="footnote">
+    This program has been created using Python 3.10 and Django 4.0.3. This program has been created by Bearded-Viking for educational purposes only. Any similarity to other websites or programs is purely coincidental and non-intentional.
+</p>
+<p class="footnote">
+    Find out more: by viewing the repository <a href="https://github.com/Bearded-Viking/TaskFlow/">"https://github.com/Bearded-Viking/TaskFlow/</a>
+</p>
+<br>
+{% endblock content %}

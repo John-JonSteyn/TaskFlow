@@ -1,0 +1,24 @@
+h1{
+    padding-left: 10%;
+}
+
+h1, hr{
+    margin-left: 10%;
+}
+
+input[type="submit"]{
+    padding: 15px 40px;
+    font-size: 22px;
+    margin-left: 50%;
+}
+
+.footnote{
+    margin-right: 20%;
+    font-size: x-small;
+    padding: 0 20%;
+    text-align: center;
+}
+
+#loginArea{
+    padding-left: 25%;
+}

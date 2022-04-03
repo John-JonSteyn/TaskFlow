@@ -1,0 +1,17 @@
+.content{
+    padding-left: 25%;
+}
+
+input[type="text"]{
+    width: 25%;
+}
+
+input[type="password"]{
+    width: 25%;
+}
+
+input[type="submit"]{
+    padding: 15px 40px;
+    font-size: 20px;
+    margin-left: 26%;
+}
