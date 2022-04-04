@@ -86,7 +86,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [Django 4.0.3](https://www.djangoproject.com/)
 * [Python 3.10.4](https://www.python.org/)
-* [SQL](https://sqlite.org/index.html)
+* [SQL Lite 3](https://sqlite.org/index.html)
 * [Google Fonts](https://fonts.google.com/)
 * HTML
 * CSS
