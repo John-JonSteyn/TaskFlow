@@ -4,8 +4,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 
 <!-- Title -->
-
-  <a href="https://github.com/Bearded-Viking/TaskFlow/">
+<a href="https://github.com/Bearded-Viking/TaskFlow/">
     <img src="images/logoNoBackGround.png" alt="Logo" width="576" height="360">
   </a>
 
