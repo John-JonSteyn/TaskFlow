@@ -1,4 +1,5 @@
 <div id="top"></div>
+<div align="center">
 
 <!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
@@ -9,7 +10,6 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
   <a href="https://github.com/Bearded-Viking/TaskFlow/">
     <img src="images/logoNoBackGround.png" alt="Logo" width="576" height="360">
   </a>
