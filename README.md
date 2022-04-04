@@ -1,5 +1,12 @@
 <div id="top"></div>
 
+<!-- PROJECT SHIELDS -->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -278,6 +285,17 @@ I'd also like to acknowledge and recommend these resources that made the creatio
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
+[contributors-shield]: https://img.shields.io/github/contributors/Bearded-Viking/TaskFlow.svg?style=for-the-badge
+[contributors-url]: https://github.com/Bearded-Viking/TaskFlow/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Bearded-Viking/TaskFlow.svg?style=for-the-badge
+[forks-url]: https://github.com/Bearded-Viking/TaskFlow/network/members
+[stars-shield]: https://img.shields.io/github/stars/Bearded-Viking/TaskFlow.svg?style=for-the-badge
+[stars-url]: https://github.com/Bearded-Viking/TaskFlow/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Bearded-Viking/TaskFlow.svg?style=for-the-badge
+[issues-url]: https://github.com/Bearded-Viking/TaskFlow/issues
+[license-shield]: https://img.shields.io/github/license/Bearded-Viking/TaskFlow.svg?style=for-the-badge
+[license-url]: https://github.com/Bearded-Viking/TaskFlow/blob/master/LICENSE.txt
+
 [screenshot-addTask]: images/screenshotAddTask.png
 [screenshot-delete]: images/screenshotDelete.png
 [screenshot-details]: images/screenshotDetails.png
