@@ -89,12 +89,9 @@ Features:
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 * [Django 4.0.3](https://www.djangoproject.com/)
 * [Python 3.10.4](https://www.python.org/)
 * [SQL Lite 3](https://sqlite.org/index.html)
-* [Google Fonts](https://fonts.google.com/)
 * HTML
 * CSS
 
