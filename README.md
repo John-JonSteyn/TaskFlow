@@ -227,11 +227,11 @@ When you're good and ready, you can log back in to view your goals, then go crus
 
 - [x] Add Edit Task Mode
 - [x] Add back to top links
-- [] Add Light Mode
-- [] Multi-language Support
-    - [] Deutsch
-    - [] Français
-    - [] Português
+- [ ] Add Light Mode
+- [ ] Multi-language Support
+    - [ ] Deutsch
+    - [ ] Français
+    - [ ] Português
 
 See the [open issues](https://github.com/Bearded-Viking/TaskFlow/issues) for a full list of proposed features (and known issues).
 
