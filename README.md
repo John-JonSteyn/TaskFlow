@@ -10,7 +10,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-  <a href="https://github.com/Bearded-Viking/TaskFlow/">
+  <a href="https://github.com/John-JonSteyn/TaskFlow/">
     <img src="images/logoNoBackGround.png" alt="Logo" width="576" height="360">
   </a>
 
@@ -21,12 +21,12 @@
   <p align="center">
     The simplistic, no-nonsense, Work Flow Manager you never knew you needed.
     <br />
-    <a href="https://github.com/Bearded-Viking/TaskFlow/"><strong>View Source Code »</strong></a>
+    <a href="https://github.com/John-JonSteyn/TaskFlow/"><strong>View Source Code »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Bearded-Viking/TaskFlow/issues">Report Bug</a>
+    <a href="https://github.com/John-JonSteyn/TaskFlow/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Bearded-Viking/TaskFlow/issues">Request Feature</a>
+    <a href="https://github.com/John-JonSteyn/TaskFlow/issues">Request Feature</a>
   </p>
 </div>
 
@@ -146,7 +146,7 @@ Downloading the lastest version of Django:
   ```
 2. Clone the repository by entering the following command into your shell:
    ```sh
-   git clone https://github.com/Bearded-Viking/TaskFlow.git
+   git clone https://github.com/John-JonSteyn/TaskFlow.git
    ```
 3. Create a virutal environment by entetering the following command:
   ```sh
@@ -183,39 +183,39 @@ Downloading the lastest version of Django:
 ## The Basics of TaskFlow
 
 ### Registration
-[![TaskFlow Registration][screenshot-registration]](https://github.com/Bearded-Viking/TaskFlow/blob/main/images/screenshotRegistration.png)
+[![TaskFlow Registration][screenshot-registration]](https://github.com/John-JonSteyn/TaskFlow/blob/main/images/screenshotRegistration.png)
 If this is your first time using TaskFlow, you will automatically be redirected to the Registration page.
 Enter a username as well as a password that satisfies the minimum requirements.
 
-[![TaskFlow Empty List][screenshot-emptyList]](https://github.com/Bearded-Viking/TaskFlow/blob/main/images/screenshotEmptyList.png)
+[![TaskFlow Empty List][screenshot-emptyList]](https://github.com/John-JonSteyn/TaskFlow/blob/main/images/screenshotEmptyList.png)
 No, you're not on vacation, you just haven't uploaded any tasks yet.
 
 ### Add Tasks
 
 Click on Add Tasks and fill in the task's title and a description thereof.
 The description isn't necessary, but could greatly help with more complex tasks - such as buying groceries.
-[![TaskFlow Add Task][screenshot-addTask]](https://github.com/Bearded-Viking/TaskFlow/blob/main/images/screenshotAddTask.png)
+[![TaskFlow Add Task][screenshot-addTask]](https://github.com/John-JonSteyn/TaskFlow/blob/main/images/screenshotAddTask.png)
 Click on the "Add Task" button to have it added to your list.
 
 ### The Main View
 
-[![TaskFlow List][screenshot-list]](https://github.com/Bearded-Viking/TaskFlow/blob/main/images/screenshotList.png)
+[![TaskFlow List][screenshot-list]](https://github.com/John-JonSteyn/TaskFlow/blob/main/images/screenshotList.png)
 This is your very own list. Don't worry, no other user is able to view or manipulate it - only you can.
 
 ### Viewing Task Details
 If you've forgotton the minuce of a task, but remembered to add the details of it, you can click on "View Details" to help yourself out.
-[![TaskFlow Details][screenshot-details]](https://github.com/Bearded-Viking/TaskFlow/blob/main/images/screenshotDetails.png)
+[![TaskFlow Details][screenshot-details]](https://github.com/John-JonSteyn/TaskFlow/blob/main/images/screenshotDetails.png)
 
 ### Deleting Tasks
 From the main view, you can also click on "Delete" on an item to remove it.
 This will open a confirmation screen. Remember: If you delete it, we can't bring it back - so please be sure before confirming.
-[![TaskFlow Delete][screenshot-delete]](https://github.com/Bearded-Viking/TaskFlow/blob/main/images/screenshotDelete.png)
+[![TaskFlow Delete][screenshot-delete]](https://github.com/John-JonSteyn/TaskFlow/blob/main/images/screenshotDelete.png)
 
 ### Logging Out
 If you click on "Logout", it would do just that. What a surprise!
 
 ### Logging In
-[![TaskFlow Login][screenshot-login]](https://github.com/Bearded-Viking/TaskFlow/blob/main/images/screenshotLogin.png)
+[![TaskFlow Login][screenshot-login]](https://github.com/John-JonSteyn/TaskFlow/blob/main/images/screenshotLogin.png)
 When you're good and ready, you can log back in to view your goals, then go crush them one-by-one.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -233,7 +233,7 @@ When you're good and ready, you can log back in to view your goals, then go crus
     - [ ] Français
     - [ ] Português
 
-See the [open issues](https://github.com/Bearded-Viking/TaskFlow/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/John-JonSteyn/TaskFlow/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -282,16 +282,16 @@ I'd also like to acknowledge and recommend these resources that made the creatio
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/Bearded-Viking/TaskFlow.svg?style=for-the-badge
-[contributors-url]: https://github.com/Bearded-Viking/TaskFlow/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Bearded-Viking/TaskFlow.svg?style=for-the-badge
-[forks-url]: https://github.com/Bearded-Viking/TaskFlow/network/members
-[stars-shield]: https://img.shields.io/github/stars/Bearded-Viking/TaskFlow.svg?style=for-the-badge
-[stars-url]: https://github.com/Bearded-Viking/TaskFlow/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Bearded-Viking/TaskFlow.svg?style=for-the-badge
-[issues-url]: https://github.com/Bearded-Viking/TaskFlow/issues
-[license-shield]: https://img.shields.io/github/license/Bearded-Viking/TaskFlow.svg?style=for-the-badge
-[license-url]: https://github.com/Bearded-Viking/TaskFlow/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/John-JonSteyn/TaskFlow.svg?style=for-the-badge
+[contributors-url]: https://github.com/John-JonSteyn/TaskFlow/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/John-JonSteyn/TaskFlow.svg?style=for-the-badge
+[forks-url]: https://github.com/John-JonSteyn/TaskFlow/network/members
+[stars-shield]: https://img.shields.io/github/stars/John-JonSteyn/TaskFlow.svg?style=for-the-badge
+[stars-url]: https://github.com/John-JonSteyn/TaskFlow/stargazers
+[issues-shield]: https://img.shields.io/github/issues/John-JonSteyn/TaskFlow.svg?style=for-the-badge
+[issues-url]: https://github.com/John-JonSteyn/TaskFlow/issues
+[license-shield]: https://img.shields.io/github/license/John-JonSteyn/TaskFlow.svg?style=for-the-badge
+[license-url]: https://github.com/John-JonSteyn/TaskFlow/blob/master/LICENSE.txt
 
 [screenshot-addTask]: images/screenshotAddTask.png
 [screenshot-delete]: images/screenshotDelete.png
